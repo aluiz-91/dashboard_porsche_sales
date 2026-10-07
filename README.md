@@ -18,4 +18,7 @@ Este projeto consiste em um painel interativo de vendas desenvolvido com o auxí
 🔗 [Acesse o Dashboard Aqui](https://aluiz-91.github.io/Dashboard_porsche_sales/)
 
 ---
-Desenvolvido por **André Luiz Amorim Da Silva** ([@aluiz-91](https://github.com/aluiz-91)).
+
+## 👨‍💻 Autor
+Desenvolvido por **André Luiz** durante a trilha de Power BI da **DIO**.  
+[GitHub](https://github.com/aluiz-91)
