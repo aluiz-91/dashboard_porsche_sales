@@ -1,8 +1,6 @@
 # 📊 Dashboard de Vendas - Porsche
 
-Este repositório contém a solução desenvolvida para o desafio prático do curso de Excel com IA.
-
-Este projeto consiste em um painel interativo de vendas desenvolvido com o auxílio de inteligência artificial e refinamento manual, integrando manipulação de dados e uma interface web moderna.
+Este repositório contém a solução desenvolvida para o desafio prático do curso de Excel com IA. O objeitvo deste projeto consiste em criar um painel interativo de vendas desenvolvido com o auxílio de inteligência artificial e refinamento manual, integrando manipulação de dados e uma interface web moderna.
 
 ## 🛠️ Processo de Desenvolvimento e Metodologia
 * **Tratamento de Dados (Claude Code + Excel):** A base de dados passou por uma etapa inicial de tratamento e limpeza utilizando o **Claude Code**, seguida por ajustes e refinamentos manuais no **Microsoft Excel** (`porsche_sanitizer.xlsx`) para garantir a integridade das informações.
